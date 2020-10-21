@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{496:function(t,n,e){"use strict";e.r(n);var o={name:"home",data:function(){return{button:"按钮"}},components:{}},s=e(4),u=Object(s.a)(o,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",{},[n("button",[this._v(this._s(this.button))])])}),[],!1,null,"a540490c",null);n.default=u.exports}}]);
