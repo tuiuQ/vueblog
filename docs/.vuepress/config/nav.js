@@ -21,7 +21,20 @@ module.exports = [
             link: "/news/python/sipder/00.md"
           }
         ]
-      }
+      },
+      {
+        text: "开发笔记",
+        items: [
+          {
+            text: "ea-music",
+            link: "/news/dev/ea-music/00.md"
+          }
+        ]
+      },
+	  {
+		text: "前端",
+		link: "/news/front"	
+	  }
     ]
   },
   {
